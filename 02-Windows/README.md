@@ -3,7 +3,9 @@
 Máquinas y prácticas de ciberseguridad en sistemas Windows.
 
 - Dancing:
+Objetivo del laboratorio
 
+Investigar un servidor Windows, identificar recursos compartidos SMB y comprobar qué información es accesible sin credenciales personales.
 1. Reconocimiento
 nmap -sC -sV TARGET_IP
 
